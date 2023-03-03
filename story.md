@@ -15,3 +15,4 @@ The world she had left behind was no longer the same. The trees were wilted, the
 
 Determined to bring the magic back, Lily spent every spare moment in the magical forest, learning all its secrets and unlocking its mysteries. And slowly but
 
+![Markdown Logo](https://images.pexels.com/photos/1196121/pexels-photo-1196121.jpeg?cs=srgb&dl=pexels-mali-maeder-1196121.jpg&fm=jpg)
